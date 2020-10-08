@@ -1,0 +1,14 @@
+{
+  "name": "express_charts",
+  "version": "1.0.0",
+  "description": "A backend api for a charts.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yeabsira and Elshaday",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
